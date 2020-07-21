@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Blog Title Here",
+      "content": "Here is the content of the blog.",
+      "author": "Appa"
+    },
+    {
+      "id": 2,
+      "title": "Blog Title Here",
+      "content": "Here is the content of the blog.",
+      "author": "Momo"
+    },
+    {
+      "id": 3,
+      "title": "Blog Title Here",
+      "content": "Here is the content of the blog.",
+      "author": "Flopsy"
+    }
+  ]
+}

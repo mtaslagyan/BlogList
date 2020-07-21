@@ -1,0 +1,7 @@
+const BLOGS = {
+    LOAD: 'BLOGS_LOAD',
+    LOAD_SUCCESS: 'BLOGS_LOAD_SUCCESS',
+    LOAD_FAIL: 'BLOGS_LOAD_FAIL',
+}
+
+export {BLOGS}
